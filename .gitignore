@@ -1,0 +1,37 @@
+# ==========================================
+# Java & Compiled Classes
+# ==========================================
+*.class
+*.jar
+*.war
+*.ear
+build/
+bin/
+dist/
+
+# ==========================================
+# NetBeans IDE Files
+# ==========================================
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+
+# ==========================================
+# Operating System Files
+# ==========================================
+# macOS
+.DS_Store
+.AppleDouble
+.lsTrashed
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==========================================
+# Temporary & Log Files
+# ==========================================
+*.log
+*.tmp
+*.bak
