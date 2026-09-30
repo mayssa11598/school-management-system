@@ -1,6 +1,6 @@
-# 🏫 School Management System (Écolee)
+# 🏫 School Management System 
 
-A desktop application for managing school administration, students, teachers, courses, grades, and user authentication. Built with Java Swing and MySQL following the Data Access Object (DAO) architecture pattern.
+An academic desktop application project developed for managing school administration, students, teachers, courses, grades, and user authentication. Built with Java Swing and MySQL following the Data Access Object (DAO) architecture pattern.
 
 ---
 
@@ -44,4 +44,8 @@ school-management-system/
 
 ## 👤 Author
 
-* **Mayssa Ahmed** - [mayssa11598](https://www.google.com/search?q=https://github.com/mayssa11598)
+**Mayssa Ahmed**,  Computer Science student at ISI (Institut Supérieur d'Informatique)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayssa-ahmed-12ab59339/)
+
+---
