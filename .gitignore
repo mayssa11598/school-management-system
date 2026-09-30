@@ -5,16 +5,16 @@
 *.jar
 *.war
 *.ear
-build/
-bin/
-dist/
+**/build/
+**/bin/
+**/dist/
 
 # ==========================================
 # NetBeans IDE Files
 # ==========================================
-nbproject/private/
-nbproject/build-impl.xml
-nbproject/genfiles.properties
+**/nbproject/private/
+**/nbproject/build-impl.xml
+**/nbproject/genfiles.properties
 
 # ==========================================
 # Operating System Files
